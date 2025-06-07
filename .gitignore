@@ -26,3 +26,4 @@ pedestrian
 output
 *.csv
 *.mp4
+*metrics*
