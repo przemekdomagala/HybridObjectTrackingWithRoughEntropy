@@ -21,8 +21,6 @@ __pycache__/
 *.tar.lzo                                                       
 *.tar.lzop
 dataset
-highway
-pedestrian
 output
 *.csv
 *.mp4

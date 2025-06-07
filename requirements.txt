@@ -1,0 +1,6 @@
+opencv-python
+natsort
+numpy
+matplotlib
+scikit-learn
+pandas
